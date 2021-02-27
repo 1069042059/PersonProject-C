@@ -1,0 +1,5 @@
+characters: 19
+words: 4
+lines: 4
+<file>: 3
+<flex>: 1
